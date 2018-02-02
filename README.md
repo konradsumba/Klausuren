@@ -1,2 +1,2 @@
 # Klausuren
-Klausuren TU-Berlin Stand 02/2018
+[Klausurensammlung](https://docs.freitagsrunde.org/Klausuren)
